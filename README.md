@@ -1,7 +1,7 @@
 
 <img src="./mlp_mixer.png" width="800px"></img>
 
-## SETR - Pytorch
+## MlpMixer - Pytorch
 
 I implemented MlpMixer using pytorch.
 
